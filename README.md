@@ -11,6 +11,7 @@ In this project, I developed a Climate Prediction Model using the Temperature Va
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 
 </div>
+
 ## Dataset Information
 The Dataset Chosen for this Project is from Berkeley Earth.
 Berkeley Earth supplies comprehensive open-source world air pollution data and highly user-accessible global temperature data that is timely, impartial, and verified.
