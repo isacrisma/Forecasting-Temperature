@@ -1,7 +1,7 @@
 ## Project 
-In this project, I developed a Climate Prediction Model using the Temperature Variation Dataset of Earth to analyse, observe and develop a model to predict the climate change across the globe.
+In this project, I developed a Climate Prediction Model using the Temperature Variation Dataset of Earth to analyse, observe and develop a model to predict temperature development in Århus, Denmark.
 
-## Tools Used
+## Tools
 <div>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> 
@@ -12,6 +12,8 @@ In this project, I developed a Climate Prediction Model using the Temperature Va
 
 </div>
 
-## Dataset Information
-The Dataset Chosen for this Project is from Berkeley Earth.
-Berkeley Earth supplies comprehensive open-source world air pollution data and highly user-accessible global temperature data that is timely, impartial, and verified.
+## Dataset 
+The data comes from the Berkeley Earth data page.</p>
+<p> Dataset Link: <a href="https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data"> Berkeley Climate Change Dataset</a></p> 
+
+
