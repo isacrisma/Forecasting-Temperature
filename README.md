@@ -15,6 +15,6 @@ In this project, I developed a Climate Prediction Model using the Temperature Va
 ## Dataset 
 The data comes from the Berkeley Earth data page.</p>
 <p> Dataset Link: <a href="https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data"> Berkeley Climate Change Dataset</a></p> 
-More specifically, I made use of the subset **Global Land Temperatures By City**.
+More specifically, I made use of the subset Global Land Temperatures By City.
 
 
