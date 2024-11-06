@@ -1,5 +1,5 @@
 ## Project 
-In this project, I developed a Climate Prediction Model using the Temperature Variation Dataset of Earth to analyse, observe and develop a model to predict temperature development in Munich, Germany.
+In this project, I designed and implemented a Climate Prediction Model using Earth's Temperature Variation Dataset to analyze and predict temperature trends specifically for Munich, Germany. The model leverages historical temperature data to identify patterns and provide accurate forecasts of future temperature developments, contributing valuable insights into climate change impacts at a local level.
 
 ## Tools
 <div>
