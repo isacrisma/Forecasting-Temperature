@@ -1,6 +1,3 @@
-## Project 
-In this project, I designed and implemented a Climate Prediction Model using Earth's Temperature Variation Dataset to analyze and predict temperature trends specifically for Munich, Germany. The model leverages historical temperature data to identify patterns and provide accurate forecasts of future temperature developments, contributing valuable insights into climate change impacts at a local level.
-
 ## Tools
 <div>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> 
@@ -11,6 +8,9 @@ In this project, I designed and implemented a Climate Prediction Model using Ear
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 
 </div>
+
+## Project 
+In this project, I designed and implemented a Climate Prediction Model using Earth's Temperature Variation Dataset to analyze and predict temperature trends specifically for Munich, Germany. The model leverages historical temperature data to identify patterns and provide accurate forecasts of future temperature developments, contributing valuable insights into climate change impacts at a local level.
 
 ## Dataset 
 The data comes from the Berkeley Earth data page.</p>
