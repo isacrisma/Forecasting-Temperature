@@ -1,5 +1,5 @@
 ## Project 
-In this project, I developed a Climate Prediction Model using the Temperature Variation Dataset of Earth to analyse, observe and develop a model to predict temperature development in Århus, Denmark.
+In this project, I developed a Climate Prediction Model using the Temperature Variation Dataset of Earth to analyse, observe and develop a model to predict temperature development in Munich, Germany.
 
 ## Tools
 <div>
